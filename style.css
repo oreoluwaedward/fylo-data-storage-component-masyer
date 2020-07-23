@@ -1,0 +1,130 @@
+body{
+    background-color: hsl(229, 57%, 11%);
+	background-image: url(./images/bg-mobile.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p{
+    border: 2px solid hsl(228, 56%, 26%);
+    background-color: hsl(228, 56%, 26%);
+    width: 400px;
+    height: 20px;
+    margin-left: 650px;
+    transform: translateY(220px);
+    padding: 65px;
+    border-radius: 5px;
+    color: white;
+}
+.logo{
+    border: 2px solid  hsl(228, 56%, 26%);
+    background-color: hsl(228, 56%, 26%);
+    width: 250px;
+    height: 150px;
+    padding: 30px;
+    border-radius: 5px;
+    border-top-right-radius: 80px;
+    margin-left: 300px;
+    transform: translateY(-10px);
+
+
+}
+/* .svg{
+    border: 2px solid  hsl(228, 56%, 26%);
+    background-color: hsl(228, 56%, 26%);
+    width: 30px;
+    
+
+} */
+.fff{
+    border: 2px solid hsl(229, 57%, 11%);
+    background-color: hsl(229, 57%, 11%);
+    padding: 5px;
+    margin-left: 340px;
+    transform: translateY(-120px);
+    border-radius: 10px;
+}
+.rrr{
+    border: 2px solid hsl(229, 57%, 11%);
+    background-color: hsl(229, 57%, 11%); 
+    padding: 5px;
+    margin-left: 10px;
+    transform: translateY(-120px);
+    border-radius: 10px;
+}
+.sss{
+    border: 2px solid hsl(229, 57%, 11%);
+    background-color: hsl(229, 57%, 11%); 
+    padding: 5px;
+    margin-left: 10px;
+    transform: translateY(-120px);
+    border-radius: 10px;
+}
+.ticker{
+	background-color: hsl(229, 57%, 11%);
+	border-radius: 10px;
+	margin: 10px 5px 5px 5px;
+	height: 3vh;
+	width: 33%;
+    position: relative;
+    margin-left: 710px;
+    transform: translateY(-120PX);
+
+	
+}
+.ticker-inside{
+	display: flex;
+	align-items: center;
+	height: 3vh;
+	width: 75%;
+	z-index: 1;
+	border-radius: 10px;
+	background: linear-gradient(90deg, hsl(6,100%,80%) 0%, hsl(335,100%,65%)100%);
+	position: absolute;
+}
+.dot-marker{
+ 	background-color:#fff ;
+	height: 3vh;
+	width:3vh;
+	border-radius: 50%;
+	position: absolute;
+	z-index: 2;
+	right: 80px;
+    top: 2px;
+    margin-right: 29px;
+    transform: translateY(-2PX);
+}
+H5{
+    margin-left: 710px;
+    transform: translateY(-140PX);
+    color: white;
+}
+h6{
+    margin-left: 1120px;
+    transform: translateY(-180PX);
+    color: white;
+
+}
+svg{
+    /* color: white; */
+    width: 320px;    
+    /* border-radius: 2px solid white;
+    background-color: wheat; */
+    margin-left: 1034px;
+    transform: translateY(-540px);
+    /* background-color: wheat;  */
+}
+h4{
+    font-family: fantasy;
+    font-weight: 400,700;
+    transform: translateY(-790px);
+}
+strong{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    transform: translateY(50px);
+    margin-left: 1100px;
+
+}
+
